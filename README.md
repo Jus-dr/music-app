@@ -10,3 +10,5 @@
 </ul>
 </p>
 <p>Press q to exit the application</p>
+<hr>
+<p<I used sqlite3 in app</p>

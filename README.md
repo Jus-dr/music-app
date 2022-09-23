@@ -11,4 +11,4 @@
 </p>
 <p>Press q to exit the application</p>
 <hr>
-<p>I imported "sqlite3" and "time" in my app/p>
+<p>I imported "sqlite3" and "time" in my app</p>

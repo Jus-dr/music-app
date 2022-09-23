@@ -1,5 +1,5 @@
 # music-app
-<h1>Basıc Music Application With Database</h1>
+<h1>Basic Music Application With Database</h1>
 <p>My app has 5 function :
 <ul>
 <li>Show Songs</li>

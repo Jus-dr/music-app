@@ -9,3 +9,4 @@
 <li>Show Total Time Of Songs</li>
 </ul>
 </p>
+<p>Press q to exit the application</p>
